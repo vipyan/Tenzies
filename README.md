@@ -2,6 +2,8 @@
 
 A simple and fun dice game built with React and Vite.
 
+[Live Demo](https://spiffy-llama-3be7d3.netlify.app/)
+
 ## How to Play
 
 - Roll until all dice are the same.
