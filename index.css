@@ -91,6 +91,13 @@ button.roll-dice:hover {
     background-color: #3f2bbd;
      cursor: pointer;
 }
+.exit-button{
+    color: #F5F5F5;
+    background-color: red;
+    border: none;
+    border-radius: 6px;
+    padding: .4em .5em;
+}
 
 
 
